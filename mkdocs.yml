@@ -1,0 +1,10 @@
+site_name: F1 Bot Docs
+site_url: https://docs.f1-discord-bot.com/
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.instant.progress 
+copyright: "© 2024 TinnyTerr. All rights reserved. See [https://docs.f1-discord-bot.com/copyright](copyright) for more details."
+plugins:
+  - social
